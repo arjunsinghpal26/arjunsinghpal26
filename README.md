@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_arjunsinghpal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_arjunsinghpal_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arjunsinghpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjunsinghpal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arjun-singh-pal-bb94481b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjunsinghpal" height="30" width="40" /></a>
 <a href="https://instagram.com/iamarjunsinghpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamarjunsinghpal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arjuniit07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjuniit07" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/arjunsinghpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arjunsinghpal" height="30" width="40" /></a>
