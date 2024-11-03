@@ -1,6 +1,44 @@
 ![Header](./45.jpg)
 <h1 align="center">Hi 👋, I'm Arjun Singh Pal</h1>
-<h3 align="center">A passionate Web Developer and Competitive Programmer</h3>
+<h3 align="center">A passionate Web Developer and Competitive Programmer💡</h3>
+<h1 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests 🤌</h1>
+
+```yaml
+name: Arjun Singh Pal
+user_name: arjunsinghpal26
+located_in: Varanasi, India
+current_job: Competitive Programmer and Full Stack Developer
+education:
+  [
+    "Self-Taught Developer",
+    "Bachelor's in Information Technology",
+  ]
+
+fields_of_interests:
+  [
+    "Data Structures and Algorithms"
+    "Competitive Programming"
+    "Frontend Development",
+    "Backend Development"
+    "DevOps",
+  ]
+
+  
+currently_learning: ["AWS, NextJs, and SQL"]
+Goals: ["I'm aiming to join a top-tier team where I can learn from seasoned professionals and make a significant impact. Let's make exceptional things happen together."]
+hobbies: ["Cricket", "Cinema", "Reading", "Gaming", "Science"]
+
+me.SayHi( (●'◡'●))
+```
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+  
+<br>
+
+
+
+
+
+
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsinghpal26&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsinghpal26" /> </p>
@@ -33,6 +71,19 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunsinghpal26&show_icons=true&locale=en&layout=compact" alt="arjunsinghpal26" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunsinghpal26&show_icons=true&locale=en" alt="arjunsinghpal26" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunsinghpal26&show_icons=true&locale=en" alt="arjunsinghpal26" /> </p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunsinghpal26&" alt="arjunsinghpal26" /></p>
+
+<h1 align="center"> 🧠 &nbsp;Problem Solving</h1>
+ 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://leetcard.jacoblin.cool/arjunsinghpal26?theme=dark&font=Open%40Sans&ext=heatmap" width="380">
+  <a href="https://codeforces.com/profile/arjunsinghpal">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=arjunsinghpal&theme=dark" alt="Codeforces Stats" />
+  </a>
+ 
+</div>
+
+
