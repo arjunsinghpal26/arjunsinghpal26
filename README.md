@@ -7,7 +7,7 @@
 name: Arjun Singh Pal
 user_name: arjunsinghpal26
 located_in: Varanasi, India
-current_job: Competitive Programmer and Full Stack Developer
+current_job: Back-end Developer Intern at Deep Thought Growth Management System
 education:
   [
     "Self-Taught Developer",
