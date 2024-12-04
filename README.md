@@ -1,6 +1,14 @@
 ![Header](./45.jpg)
-<h1 align="center">Hi 👋, I'm Arjun Singh Pal</h1>
-<h3 align="center">A passionate Web Developer and Competitive Programmer💡</h3>
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">, I'm Arjun Singh Pal</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
+</p>
+<h3 align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
+</p>
+
 <h1 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests 🤌</h1>
 
 ```yaml
@@ -33,6 +41,16 @@ me.SayHi( (●'◡'●))
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
   
 <br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
+</p>
+
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Walter+Turncoat&color=%230366DE&size=25&duration=4000&center=true&vCenter=true&width=550&lines=Aspiring+Software+++Engineer;Varanasi,+++Uttar+Pradesh;Pre+Final++Year+Student;Ajay+Kumar+Garg+Engineering+College" alt="Arjun" width="100%">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivammavihs1/shivammavihs1/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 
 
 
