@@ -14,7 +14,32 @@
 <h1 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests 🤌</h1>
 
 ```yaml
-@@ -33,57 +41,67 @@
+name: Arjun Singh Pal
+user_name: arjunsinghpal26
+located_in: Varanasi, India
+current_job: Back-end Developer Intern at Deep Thought Growth Management System
+education:
+  [
+    "Self-Taught Developer",
+    "Bachelor's in Information Technology",
+  ]
+
+fields_of_interests:
+  [
+    "Data Structures and Algorithms"
+    "Competitive Programming"
+    "Frontend Development",
+    "Backend Development"
+    "DevOps",
+  ]
+
+
+currently_learning: ["AWS, NextJs, and SQL"]
+Goals: ["I'm aiming to join a top-tier team where I can learn from seasoned professionals and make a significant impact. Let's make exceptional things happen together."]
+hobbies: ["Cricket", "Cinema", "Reading", "Gaming", "Science"]
+
+me.SayHi( (●'◡'●))
+```
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <br>
