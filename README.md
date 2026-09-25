@@ -1,4 +1,6 @@
 ![Header](./45.jpg)
+<h1 align="center">Hi 👋, I'm Arjun Singh Pal</h1>
+<h3 align="center">A passionate Web Developer and Competitive Programmer💡</h3>
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">, I'm Arjun Singh Pal</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
@@ -12,34 +14,9 @@
 <h1 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests 🤌</h1>
 
 ```yaml
-name: Arjun Singh Pal
-user_name: arjunsinghpal26
-located_in: Varanasi, India
-current_job: Back-end Developer Intern at Deep Thought Growth Management System
-education:
-  [
-    "Self-Taught Developer",
-    "Bachelor's in Information Technology",
-  ]
-
-fields_of_interests:
-  [
-    "Data Structures and Algorithms"
-    "Competitive Programming"
-    "Frontend Development",
-    "Backend Development"
-    "DevOps",
-  ]
-
-  
-currently_learning: ["AWS, NextJs, and SQL"]
-Goals: ["I'm aiming to join a top-tier team where I can learn from seasoned professionals and make a significant impact. Let's make exceptional things happen together."]
-hobbies: ["Cricket", "Cinema", "Reading", "Gaming", "Science"]
-
-me.SayHi( (●'◡'●))
-```
+@@ -33,57 +41,67 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-  
+
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="blue line"></center>
@@ -95,13 +72,11 @@ me.SayHi( (●'◡'●))
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunsinghpal26&" alt="arjunsinghpal26" /></p>
 
 <h1 align="center"> 🧠 &nbsp;Problem Solving</h1>
- 
+
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://leetcard.jacoblin.cool/arjunsinghpal26?theme=dark&font=Open%40Sans&ext=heatmap" width="380">
-  <a href="(https://www.codechef.com/users/junior_26)">
-    <img src="https://codechef-readme-stats.vercel.app/api/card?username=junior26&theme=dark" alt="Codechef Stats" />
+  <a href="https://codeforces.com/profile/arjunsinghpal">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=arjunsinghpal&theme=dark" alt="Codeforces Stats" />
   </a>
- 
+
 </div>
-
-
