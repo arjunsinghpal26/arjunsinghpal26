@@ -98,7 +98,7 @@ me.SayHi( (●'◡'●))
  
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://leetcard.jacoblin.cool/arjunsinghpal26?theme=dark&font=Open%40Sans&ext=heatmap" width="380">
-  <a href="https://codechef.com/profile/junior_26">
+  <a href="(https://www.codechef.com/users/junior_26)">
     <img src="https://codechef-readme-stats.vercel.app/api/card?username=junior26&theme=dark" alt="Codechef Stats" />
   </a>
  
