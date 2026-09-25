@@ -98,8 +98,8 @@ me.SayHi( (●'◡'●))
  
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://leetcard.jacoblin.cool/arjunsinghpal26?theme=dark&font=Open%40Sans&ext=heatmap" width="380">
-  <a href="https://codeforces.com/profile/arjunsinghpal">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=arjunsinghpal&theme=dark" alt="Codeforces Stats" />
+  <a href="https://codechef.com/profile/junior 26">
+    <img src="https://codechef-readme-stats.vercel.app/api/card?username=junior26&theme=dark" alt="Codechef Stats" />
   </a>
  
 </div>
